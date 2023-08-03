@@ -6,7 +6,7 @@ I am in a perpetual Beta mode, a "wannabe" Geek, a Social Media and Communicatio
 
 Also, a Front End Developer with more than 3 days experience.
 
-I do have proven experience in building Full-stack web-applications, check repos and main project- Zerttesh
+I do have proven experience in building Full-stack web-applications, check repos and main project - project
 
 ✔ What do I do?
 
